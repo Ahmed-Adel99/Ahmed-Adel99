@@ -13,5 +13,5 @@
 
 ### My Github stats:
 ![Ahmed-Adel99 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Adel99&hide=prs,issues,contribs&show_icons=true&theme=cobalt&hide_rank=true&include_all_commits=true&show_owner=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Adel99layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Adel99&layout=compact)
 
